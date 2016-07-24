@@ -19,3 +19,4 @@ C:\Users\simon\Documents\GitHub\PokeBot2\PokemonGo\RocketAPI\Console\obj\Debug\P
 C:\Users\simon\Documents\GitHub\PokeBot2\PokemonGo\RocketAPI\Console\obj\Debug\PokemonGo.RocketAPI.Console.pdb
 C:\Users\simon\Documents\GitHub\PokeBot2\PokemonGo\RocketAPI\Console\bin\Debug\App.config
 C:\Users\simon\Documents\GitHub\PokeBot2\PokemonGo\RocketAPI\Console\bin\Debug\external.config
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\PokeBot2\PokemonGo\RocketAPI\Console\bin\Debug\PokemonGo.RocketAPI.Console.exe.config
